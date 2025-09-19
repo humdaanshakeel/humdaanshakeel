@@ -1,6 +1,6 @@
 # Hello, I'm Muhammad Humdaan Shakeel
 
-<a href="(https://pk.linkedin.com/in/muhammad-humdaan-shakeel-b622b01b1)/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://pk.linkedin.com/in/muhammad-humdaan-shakeel-b622b01b1/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 
